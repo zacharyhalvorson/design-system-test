@@ -1,17 +1,23 @@
 {
-  "main": "dist/index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/react": "^16.4.16",
-    "framer": "^0.10"
-  },
-  "peerDependencies": {
-    "framer": "^0.10",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
-  },
-  "version": "1.0.0",
-  "dependencies": {
-    "styled-components": "^4.2.0"
-  }
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"version": "1.0.0",
+	"dependencies": {
+		"@framer/benjamin.input": "^1.1.0",
+		"styled-components": "^4.2.0"
+	},
+	"framer": {
+		"id": "3dfbcabc-5b7c-4c0a-b965-48daecc1d644",
+		"displayName": "Zach's Design System Test"
+	},
+	"author": "Zachary Halvorson",
+	"name": "@framer/zacharyhalvorson.zachs-design-system-test"
 }
